@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<salile>
+    <sala>
+        <idsala>100</idsala>
+        <nume_sala>Sala bicepsul gros</nume_sala>
+        <address_id>569</address_id>
+    </sala>
+    <sala>
+        <idsala>101</idsala>
+        <nume_sala>Vivertine</nume_sala>
+        <address_id>843</address_id>
+    </sala>
+    <sala>
+        <idsala>102</idsala>
+        <nume_sala>Stay fit gym</nume_sala>
+        <address_id>919</address_id>
+    </sala>
+    <sala>
+        <idsala>103</idsala>
+        <nume_sala>Sala la vericu</nume_sala>
+        <address_id>949</address_id>
+    </sala>
+    <sala>
+        <idsala>104</idsala>
+        <nume_sala>Sala de forta "la marcel"</nume_sala>
+        <address_id>955</address_id>
+    </sala>
+    <sala>
+        <idsala>105</idsala>
+        <nume_sala>Sala Pacurari</nume_sala>
+        <address_id>959</address_id>
+    </sala>
+    <sala>
+        <idsala>106</idsala>
+        <nume_sala>International Gym</nume_sala>
+        <address_id>46</address_id>
+    </sala>
+    <sala>
+        <idsala>107</idsala>
+        <nume_sala>Gym24</nume_sala>
+        <address_id>611</address_id>
+    </sala>
+    <sala>
+        <idsala>108</idsala>
+        <nume_sala>Fit Gym</nume_sala>
+        <address_id>692</address_id>
+    </sala>
+    <sala>
+        <idsala>109</idsala>
+        <nume_sala>Star wars gym</nume_sala>
+        <address_id>114</address_id>
+    </sala>
+</salile>

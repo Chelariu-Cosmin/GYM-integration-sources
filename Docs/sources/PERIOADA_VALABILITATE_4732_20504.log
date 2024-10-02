@@ -1,0 +1,20 @@
+
+
+ LOG file opened at 05/18/24 11:43:52
+
+Field Definitions for table PERIOADA_VALABILITATE
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ID_PERIOADA_VALABILITATE        CHAR (255)
+      Terminated by ";"
+      Trim whitespace same as SQL Loader
+    ID_TIP_ABONAMENT                CHAR (255)
+      Terminated by ";"
+      Trim whitespace same as SQL Loader
+    ZILE_VALABILITATE               CHAR (255)
+      Terminated by ";"
+      Trim whitespace same as SQL Loader
